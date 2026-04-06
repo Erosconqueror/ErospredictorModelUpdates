@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\erospredictor",
+    "\\erospredictor\\data"
   ],
-  "SelectedNode": "\\C:\\Users\\Eros\\Source\\Repos\\ErospredictorModelUpdates",
+  "SelectedNode": "\\erospredictor\\data\\meta_champs.json",
   "PreviewInSolutionExplorer": false
 }
